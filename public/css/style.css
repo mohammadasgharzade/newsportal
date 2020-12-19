@@ -1,0 +1,26 @@
+
+body{
+    width: 100%;
+    overflow: hidden;
+    overflow-y: scroll ;
+}
+/* .arowup{
+    font-size: 25px;
+} */
+.video-js {
+    width: 300px;
+    height: 150px;
+}
+
+.vjs-fluid {
+    padding-top: 56.25%
+}
+
+.my-video-dimensions {
+    width: 426px;
+    height: 240px;
+}
+
+.my-video-dimensions.vjs-fluid {
+    padding-top: 56.33802816901409%;
+}
